@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31cd3639.css",
+    "main.js": "/static/js/main.8dd2dc56.js",
+    "static/js/787.ee0a4b81.chunk.js": "/static/js/787.ee0a4b81.chunk.js",
+    "static/media/samsungpic.webp": "/static/media/samsungpic.2bbccfc836c2151858db.webp",
+    "static/media/IMG_6026.webp": "/static/media/IMG_6026.73e0a4586291a9e1ecce.webp",
+    "static/media/starmedia.webp": "/static/media/starmedia.b85e62f128cf191ef1af.webp",
+    "static/media/fim.webp": "/static/media/fim.e34b8db17ea716f1cfe8.webp",
+    "static/media/inwardpic.webp": "/static/media/inwardpic.cd87dd0d9cfc6b9719f3.webp",
+    "static/media/Teko-Medium.ttf": "/static/media/Teko-Medium.c810f95c127da691d308.ttf",
+    "static/media/Teko-Bold.ttf": "/static/media/Teko-Bold.548f8c0920e1990b79fc.ttf",
+    "static/media/Nunito-VariableFont_wght.ttf": "/static/media/Nunito-VariableFont_wght.4a3eef3e0a61b7eb3eda.ttf",
+    "static/media/ArchivoBlack-Regular.ttf": "/static/media/ArchivoBlack-Regular.e35d38651492de9e7226.ttf",
+    "static/media/whatsapp.webp": "/static/media/whatsapp.f35bfa66d33cb31baacd.webp",
+    "static/media/royaume-uni .webp": "/static/media/royaume-uni .799572ceb0751e544d25.webp",
+    "static/media/bouton-supprimer .webp": "/static/media/bouton-supprimer .d045185909e9bc12de41.webp",
+    "static/media/telephone.webp": "/static/media/telephone.94c76bb6afb7947d75c4.webp",
+    "static/media/gmail .webp": "/static/media/gmail .09abc1a94f0b4ae417d5.webp",
+    "static/media/developpement-web .webp": "/static/media/developpement-web .66e827d5dfdbcf2c1bcf.webp",
+    "static/media/developpement-web.webp": "/static/media/developpement-web.f8df13c6e7098d2e8c3b.webp",
+    "static/media/creation-de-sites-web .webp": "/static/media/creation-de-sites-web .2f52184887a5758cdd6e.webp",
+    "static/media/ftm .webp": "/static/media/ftm .3d2e896badf3adc17583.webp",
+    "static/media/linkedin .webp": "/static/media/linkedin .1fa5879cc2d81c04c6fe.webp",
+    "static/media/starmedialogo.webp": "/static/media/starmedialogo.464d2f81a062b4f4a21b.webp",
+    "static/media/inward .webp": "/static/media/inward .82696cf3757c7465fc62.webp",
+    "static/media/france .webp": "/static/media/france .f67edbfc5b4705d856bd.webp",
+    "static/media/github.webp": "/static/media/github.2ef7ed3993edb6685f8a.webp",
+    "static/media/samsunglogo.webp": "/static/media/samsunglogo.7017e4ea8b90c858fd75.webp",
+    "index.html": "/index.html",
+    "static/media/ligne-brisee .webp": "/static/media/ligne-brisee .66e23e032c08b6491a5a.webp",
+    "main.31cd3639.css.map": "/static/css/main.31cd3639.css.map",
+    "main.8dd2dc56.js.map": "/static/js/main.8dd2dc56.js.map",
+    "787.ee0a4b81.chunk.js.map": "/static/js/787.ee0a4b81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31cd3639.css",
+    "static/js/main.8dd2dc56.js"
+  ]
+}
